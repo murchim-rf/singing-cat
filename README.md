@@ -2,7 +2,6 @@
 
 <img src="https://murchim.ru/img/othersite/css-cat.jpg" alt="CSS - Поющий кот - МУРЧИМ.РФ" />
 <a href="https://murchim.ru/html/murchim-rf/pojushhij_kot.html" target="_blank">CSS элемент - поющий кот - эффект при наведении</a>
-# CSS CODE
 
 <pre>
 &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.0/css/bootstrap.min.css" /&gt;
@@ -638,8 +637,6 @@
 }
 &lt;/style&gt;
 </pre>
-
-## HTML CODE
 
 <pre>
 &lt;div class="container"&gt;
