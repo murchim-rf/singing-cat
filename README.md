@@ -1,6 +1,6 @@
 # Поющий кот
 <img src="https://murchim.ru/img/othersite/css-cat.jpg" alt="CSS - Поющий кот - МУРЧИМ.РФ" />
-CSS элемент - поющий кот - эффект при наведении
+### <a href="https://murchim.ru/html/murchim-rf/pojushhij_kot.html" target="_blank">CSS элемент - поющий кот - эффект при наведении</a>
 ## CSS
 <pre>
 &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.0/css/bootstrap.min.css" /&gt;
